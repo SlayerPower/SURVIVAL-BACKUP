@@ -62,3 +62,6 @@
 [22:23:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=668, y=64, z=2230} jh{x=668, y=63, z=2230}
 [22:23:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=668, y=64, z=2230} jh{x=668, y=63, z=2230}
 [22:23:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=668, y=64, z=2231} jh{x=668, y=63, z=2230}
+[22:25:54] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[22:25:54] [Server thread/INFO]: edinson123pro left the game
+[22:26:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
