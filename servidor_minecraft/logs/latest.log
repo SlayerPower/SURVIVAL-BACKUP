@@ -1,0 +1,36 @@
+[00:41:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:41:50] [ServerMain/INFO]: Loaded 1337 recipes
+[00:41:50] [ServerMain/INFO]: Loaded 1448 advancements
+[00:41:50] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:41:50] [Server thread/INFO]: Loading properties
+[00:41:50] [Server thread/INFO]: Default game type: SURVIVAL
+[00:41:50] [Server thread/INFO]: Generating keypair
+[00:41:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:41:50] [Server thread/INFO]: Using epoll channel type
+[00:41:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:41:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:41:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:41:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:41:50] [Server thread/INFO]: Preparing level "world"
+[00:41:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:41:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:41:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:41:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:41:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:41:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:41:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:41:53] [Server thread/INFO]: Time elapsed: 2587 ms
+[00:41:53] [Server thread/INFO]: Done (2.815s)! For help, type "help"
+[00:42:31] [Server thread/INFO]: Slayer_np[/100.95.170.125:53298] logged in with entity id 8 at (651.4917228517908, 69.9355448966977, 2224.2357439668885)
+[00:42:31] [Server thread/INFO]: Slayer_np joined the game
+[00:42:47] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[00:45:14] [Server thread/INFO]: [Slayer_np: Summoned new Iron Golem]
+[00:45:16] [Server thread/INFO]: [Slayer_np: Summoned new Iron Golem]
+[00:45:19] [Server thread/INFO]: [Slayer_np: Summoned new Iron Golem]
+[00:45:23] [Server thread/INFO]: [Slayer_np: Summoned new Iron Golem]
+[00:50:53] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[00:51:02] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[00:51:06] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[00:51:08] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[00:51:10] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[00:51:42] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
