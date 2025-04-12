@@ -1,30 +1,47 @@
-[01:52:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:52:05] [ServerMain/INFO]: Loaded 1337 recipes
-[01:52:05] [ServerMain/INFO]: Loaded 1448 advancements
-[01:52:05] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:52:05] [Server thread/INFO]: Loading properties
-[01:52:05] [Server thread/INFO]: Default game type: SURVIVAL
-[01:52:05] [Server thread/INFO]: Generating keypair
-[01:52:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:52:05] [Server thread/INFO]: Using epoll channel type
-[01:52:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:52:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:52:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:52:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:52:05] [Server thread/INFO]: Preparing level "world"
-[01:52:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:10] [Server thread/INFO]: Time elapsed: 4527 ms
-[01:52:10] [Server thread/INFO]: Done (4.877s)! For help, type "help"
-[01:53:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:53:57] [Server thread/INFO]: Slayer_np[/100.95.170.125:56737] logged in with entity id 8 at (320.30000001192093, 61.0, 2331.6325185056517)
-[01:53:57] [Server thread/INFO]: Slayer_np joined the game
-[01:54:09] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[19:49:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:49:32] [ServerMain/INFO]: Loaded 1337 recipes
+[19:49:32] [ServerMain/INFO]: Loaded 1448 advancements
+[19:49:32] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[19:49:32] [Server thread/INFO]: Loading properties
+[19:49:32] [Server thread/INFO]: Default game type: SURVIVAL
+[19:49:32] [Server thread/INFO]: Generating keypair
+[19:49:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:49:32] [Server thread/INFO]: Using epoll channel type
+[19:49:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:49:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:49:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:49:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:49:32] [Server thread/INFO]: Preparing level "world"
+[19:49:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:49:36] [Server thread/INFO]: Time elapsed: 3452 ms
+[19:49:36] [Server thread/INFO]: Done (3.787s)! For help, type "help"
+[19:49:36] [Server thread/INFO]: DarkJunior (/100.97.31.104:63728) lost connection: Disconnected
+[19:49:47] [Server thread/INFO]: DarkJunior[/100.97.31.104:63740] logged in with entity id 8 at (12.458757562461203, 2.0, 273.69999998807907)
+[19:49:47] [Server thread/INFO]: DarkJunior joined the game
+[19:52:02] [Server thread/INFO]: Unknown game mode: 
+[19:52:02] [Server thread/INFO]: gamemode /tp edinson123pro Darkjunior<--[HERE]
+[19:52:46] [Server thread/INFO]: No entity was found
+[19:53:15] [Server thread/INFO]: edinson123pro[/100.97.231.107:60651] logged in with entity id 596 at (4.622627901075633, -149.60253004248244, 101.09103929964142)
+[19:53:15] [Server thread/INFO]: edinson123pro joined the game
+[19:53:16] [Server thread/INFO]: edinson123pro fell out of the world
+[19:53:18] [Server thread/WARN]: edinson123pro moved too quickly! 0.0,-11.841601075689141,0.0
+[19:53:50] [Server thread/INFO]: Incorrect argument for command
+[19:53:50] [Server thread/INFO]: ...son123pro DarkJunior/gamemode creative edinson123pro<--[HERE]
+[19:54:14] [Server thread/INFO]: Unknown game mode: 1
+[19:54:14] [Server thread/INFO]: gamemode 1 edinson123pro<--[HERE]
+[19:54:26] [Server thread/INFO]: Unknown game mode: 0
+[19:54:26] [Server thread/INFO]: gamemode 0 edinson123pro<--[HERE]
+[19:54:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:54:46] [Server thread/INFO]: modo de juego creativo edinson123pro<--[HERE]
+[19:55:01] [Server thread/INFO]: Unknown game mode: creativo
+[19:55:01] [Server thread/INFO]: ...e creativo edinson123pro<--[HERE]
+[19:55:16] [Server thread/INFO]: Made edinson123pro a server operator
+[19:55:47] [Server thread/INFO]: Set edinson123pro's game mode to Creative Mode
+[19:56:09] [Server thread/INFO]: [edinson123pro: Set own game mode to Survival Mode]
