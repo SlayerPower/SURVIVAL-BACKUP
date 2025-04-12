@@ -59,3 +59,8 @@
 [21:41:14] [Server thread/INFO]: edinson123pro[/100.97.231.107:60927] logged in with entity id 46726 at (645.1495129534031, 56.0, 2193.0871041037603)
 [21:41:14] [Server thread/INFO]: edinson123pro joined the game
 [21:47:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=641, y=76, z=2239} jh{x=642, y=76, z=2240}
+[21:52:15] [Server thread/INFO]: Villager cpj['Armorer'/46784, l='ServerLevel[world]', x=579.50, y=64.06, z=2183.49] died, message: 'Armorer was slain by Zombie'
+[21:55:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=649, y=82, z=2254} jh{x=648, y=83, z=2254}
+[21:57:16] [Server thread/INFO]: Villager cpj['Fletcher'/46762, l='ServerLevel[world]', x=603.89, y=64.56, z=2161.43] died, message: 'Fletcher was slain by Zombie'
+[21:57:23] [Server thread/INFO]: Villager cpj['Fletcher'/46761, l='ServerLevel[world]', x=603.70, y=64.59, z=2161.33] died, message: 'Fletcher was slain by Zombie'
+[21:57:29] [Server thread/INFO]: Villager cpj['Fletcher'/46760, l='ServerLevel[world]', x=604.65, y=64.56, z=2163.60] died, message: 'Fletcher was slain by Zombie'
