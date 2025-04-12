@@ -1,66 +1,50 @@
-[19:49:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:49:32] [ServerMain/INFO]: Loaded 1337 recipes
-[19:49:32] [ServerMain/INFO]: Loaded 1448 advancements
-[19:49:32] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[19:49:32] [Server thread/INFO]: Loading properties
-[19:49:32] [Server thread/INFO]: Default game type: SURVIVAL
-[19:49:32] [Server thread/INFO]: Generating keypair
-[19:49:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:49:32] [Server thread/INFO]: Using epoll channel type
-[19:49:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:49:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:49:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:49:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:49:32] [Server thread/INFO]: Preparing level "world"
-[19:49:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:49:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:49:36] [Server thread/INFO]: Time elapsed: 3452 ms
-[19:49:36] [Server thread/INFO]: Done (3.787s)! For help, type "help"
-[19:49:36] [Server thread/INFO]: DarkJunior (/100.97.31.104:63728) lost connection: Disconnected
-[19:49:47] [Server thread/INFO]: DarkJunior[/100.97.31.104:63740] logged in with entity id 8 at (12.458757562461203, 2.0, 273.69999998807907)
-[19:49:47] [Server thread/INFO]: DarkJunior joined the game
-[19:52:02] [Server thread/INFO]: Unknown game mode: 
-[19:52:02] [Server thread/INFO]: gamemode /tp edinson123pro Darkjunior<--[HERE]
-[19:52:46] [Server thread/INFO]: No entity was found
-[19:53:15] [Server thread/INFO]: edinson123pro[/100.97.231.107:60651] logged in with entity id 596 at (4.622627901075633, -149.60253004248244, 101.09103929964142)
-[19:53:15] [Server thread/INFO]: edinson123pro joined the game
-[19:53:16] [Server thread/INFO]: edinson123pro fell out of the world
-[19:53:18] [Server thread/WARN]: edinson123pro moved too quickly! 0.0,-11.841601075689141,0.0
-[19:53:50] [Server thread/INFO]: Incorrect argument for command
-[19:53:50] [Server thread/INFO]: ...son123pro DarkJunior/gamemode creative edinson123pro<--[HERE]
-[19:54:14] [Server thread/INFO]: Unknown game mode: 1
-[19:54:14] [Server thread/INFO]: gamemode 1 edinson123pro<--[HERE]
-[19:54:26] [Server thread/INFO]: Unknown game mode: 0
-[19:54:26] [Server thread/INFO]: gamemode 0 edinson123pro<--[HERE]
-[19:54:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:54:46] [Server thread/INFO]: modo de juego creativo edinson123pro<--[HERE]
-[19:55:01] [Server thread/INFO]: Unknown game mode: creativo
-[19:55:01] [Server thread/INFO]: ...e creativo edinson123pro<--[HERE]
-[19:55:16] [Server thread/INFO]: Made edinson123pro a server operator
-[19:55:47] [Server thread/INFO]: Set edinson123pro's game mode to Creative Mode
-[19:56:09] [Server thread/INFO]: [edinson123pro: Set own game mode to Survival Mode]
-[20:01:04] [Server thread/INFO]: Set edinson123pro's game mode to Creative Mode
-[20:01:19] [Server thread/INFO]: [edinson123pro: Set own game mode to Survival Mode]
-[20:03:39] [Server thread/INFO]: You whisper to DarkJunior: acabare contigo
-[20:04:28] [Server thread/INFO]: You whisper to DarkJunior: se donde vives
-[20:05:23] [Server thread/INFO]: Set edinson123pro's game mode to Creative Mode
-[20:07:04] [Server thread/INFO]: [edinson123pro: Set own game mode to Survival Mode]
-[20:15:04] [Server thread/INFO]: Villager cpj['Armorer'/804, l='ServerLevel[world]', x=577.18, y=64.00, z=2179.87] died, message: 'Armorer was slain by edinson123pro'
-[20:22:17] [Server thread/INFO]: Villager cpj['Weaponsmith'/805, l='ServerLevel[world]', x=588.08, y=64.00, z=2163.93] died, message: 'Weaponsmith was slain by edinson123pro'
-[20:29:46] [Server thread/INFO]: Villager cpj['Armorer'/801, l='ServerLevel[world]', x=614.70, y=65.00, z=2180.50] died, message: 'Armorer was slain by edinson123pro'
-[20:43:58] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[20:43:58] [Server thread/INFO]: edinson123pro left the game
-[21:41:14] [Server thread/INFO]: edinson123pro[/100.97.231.107:60927] logged in with entity id 46726 at (645.1495129534031, 56.0, 2193.0871041037603)
-[21:41:14] [Server thread/INFO]: edinson123pro joined the game
-[21:47:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=641, y=76, z=2239} jh{x=642, y=76, z=2240}
-[21:52:15] [Server thread/INFO]: Villager cpj['Armorer'/46784, l='ServerLevel[world]', x=579.50, y=64.06, z=2183.49] died, message: 'Armorer was slain by Zombie'
-[21:55:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=649, y=82, z=2254} jh{x=648, y=83, z=2254}
-[21:57:16] [Server thread/INFO]: Villager cpj['Fletcher'/46762, l='ServerLevel[world]', x=603.89, y=64.56, z=2161.43] died, message: 'Fletcher was slain by Zombie'
-[21:57:23] [Server thread/INFO]: Villager cpj['Fletcher'/46761, l='ServerLevel[world]', x=603.70, y=64.59, z=2161.33] died, message: 'Fletcher was slain by Zombie'
-[21:57:29] [Server thread/INFO]: Villager cpj['Fletcher'/46760, l='ServerLevel[world]', x=604.65, y=64.56, z=2163.60] died, message: 'Fletcher was slain by Zombie'
+[22:05:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:05:12] [ServerMain/INFO]: Loaded 1337 recipes
+[22:05:12] [ServerMain/INFO]: Loaded 1448 advancements
+[22:05:12] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[22:05:12] [Server thread/INFO]: Loading properties
+[22:05:12] [Server thread/INFO]: Default game type: SURVIVAL
+[22:05:12] [Server thread/INFO]: Generating keypair
+[22:05:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:05:12] [Server thread/INFO]: Using epoll channel type
+[22:05:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:05:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:05:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:05:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:05:12] [Server thread/INFO]: Preparing level "world"
+[22:05:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:05:18] [Worker-Main-3/INFO]: Preparing spawn area: 69%
+[22:05:18] [Server thread/INFO]: Time elapsed: 5036 ms
+[22:05:18] [Server thread/INFO]: Done (5.409s)! For help, type "help"
+[22:05:18] [Server thread/INFO]: DarkJunior (/100.97.31.104:49583) lost connection: Disconnected
+[22:05:25] [Server thread/INFO]: DarkJunior[/100.97.31.104:49588] logged in with entity id 8 at (658.9217049414686, 68.0, 2245.0647465842862)
+[22:05:25] [Server thread/INFO]: DarkJunior joined the game
+[22:05:27] [Server thread/INFO]: edinson123pro[/100.97.231.107:61043] logged in with entity id 399 at (650.8443990809486, 63.0, 2236.782853816365)
+[22:05:28] [Server thread/INFO]: edinson123pro joined the game
+[22:07:44] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[22:07:44] [Server thread/INFO]: edinson123pro left the game
+[22:07:47] [Server thread/INFO]: edinson123pro[/100.97.231.107:61063] logged in with entity id 1360 at (646.944091329644, 63.0, 2234.0889701544806)
+[22:07:47] [Server thread/INFO]: edinson123pro joined the game
+[22:09:33] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[22:09:33] [Server thread/INFO]: edinson123pro left the game
+[22:09:54] [Server thread/INFO]: edinson123pro[/100.97.231.107:61497] logged in with entity id 1909 at (663.0840566564318, 65.0, 2232.853559459655)
+[22:09:54] [Server thread/INFO]: edinson123pro joined the game
+[22:11:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=654, y=62, z=2229} jh{x=654, y=62, z=2228}
+[22:12:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=670, y=75, z=2245} jh{x=671, y=75, z=2245}
+[22:12:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=670, y=75, z=2245} jh{x=671, y=75, z=2245}
+[22:12:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=670, y=75, z=2245} jh{x=671, y=75, z=2245}
+[22:12:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=62, z=2231} jh{x=655, y=62, z=2230}
+[22:12:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=62, z=2230} jh{x=657, y=61, z=2229}
+[22:12:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=655, y=62, z=2230} jh{x=657, y=61, z=2229}
+[22:12:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=669, y=69, z=2237} jh{x=669, y=67, z=2237}
+[22:12:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=669, y=69, z=2237} jh{x=669, y=67, z=2237}
