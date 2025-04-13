@@ -8,26 +8,32 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-10 02:15:04 +0000",
-      "minecraft:beach": "2025-04-09 18:48:41 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-11 20:58:49 +0000",
       "minecraft:forest": "2025-04-10 03:11:17 +0000",
       "minecraft:taiga": "2025-04-11 20:58:45 +0000",
-      "minecraft:river": "2025-04-09 22:01:48 +0000",
-      "minecraft:snowy_plains": "2025-04-10 23:27:43 +0000",
-      "minecraft:dripstone_caves": "2025-04-10 23:33:56 +0000",
-      "minecraft:snowy_taiga": "2025-04-10 23:26:12 +0000",
       "minecraft:deep_cold_ocean": "2025-04-11 21:38:35 +0000",
       "minecraft:frozen_ocean": "2025-04-10 23:26:53 +0000",
       "minecraft:frozen_river": "2025-04-10 23:26:33 +0000",
       "minecraft:windswept_forest": "2025-04-10 23:30:50 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-11 21:38:38 +0000",
       "minecraft:ocean": "2025-04-11 16:57:43 +0000",
+      "minecraft:jungle": "2025-04-13 18:49:49 +0000",
       "minecraft:sunflower_plains": "2025-04-11 21:00:13 +0000",
+      "minecraft:birch_forest": "2025-04-13 18:49:40 +0000",
+      "minecraft:windswept_hills": "2025-04-13 18:45:00 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-11 21:38:27 +0000",
+      "minecraft:snowy_beach": "2025-04-10 23:26:40 +0000",
+      "minecraft:flower_forest": "2025-04-13 18:49:20 +0000",
+      "minecraft:beach": "2025-04-09 18:48:41 +0000",
+      "minecraft:dark_forest": "2025-04-13 18:49:47 +0000",
+      "minecraft:river": "2025-04-09 22:01:48 +0000",
+      "minecraft:snowy_plains": "2025-04-10 23:27:43 +0000",
+      "minecraft:dripstone_caves": "2025-04-10 23:33:56 +0000",
+      "minecraft:snowy_taiga": "2025-04-10 23:26:12 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-13 18:49:38 +0000",
       "minecraft:swamp": "2025-04-11 21:02:05 +0000",
       "minecraft:meadow": "2025-04-11 21:38:17 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-10 23:30:10 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-04-11 21:38:27 +0000",
-      "minecraft:snowy_beach": "2025-04-10 23:26:40 +0000",
       "minecraft:plains": "2025-04-09 18:48:49 +0000"
     },
     "done": false
@@ -505,27 +511,28 @@
       "minecraft:blaze": "2025-04-10 15:38:26 +0000",
       "minecraft:pillager": "2025-04-10 17:40:46 +0000",
       "minecraft:skeleton": "2025-04-09 18:58:25 +0000",
-      "minecraft:phantom": "2025-04-10 17:58:01 +0000",
-      "minecraft:zombified_piglin": "2025-04-10 20:51:32 +0000",
-      "minecraft:wither_skeleton": "2025-04-10 15:37:44 +0000",
       "minecraft:ravager": "2025-04-10 17:45:36 +0000",
       "minecraft:bogged": "2025-04-10 16:28:37 +0000",
       "minecraft:ghast": "2025-04-09 19:26:10 +0000",
       "minecraft:hoglin": "2025-04-10 02:47:30 +0000",
-      "minecraft:shulker": "2025-04-10 23:49:26 +0000",
-      "minecraft:piglin": "2025-04-10 02:47:09 +0000",
       "minecraft:breeze": "2025-04-10 16:26:10 +0000",
       "minecraft:vindicator": "2025-04-10 17:44:47 +0000",
-      "minecraft:enderman": "2025-04-09 22:07:16 +0000",
-      "minecraft:silverfish": "2025-04-10 16:32:17 +0000",
       "minecraft:magma_cube": "2025-04-10 15:40:54 +0000",
       "minecraft:spider": "2025-04-09 19:13:32 +0000",
       "minecraft:piglin_brute": "2025-04-10 02:45:44 +0000",
-      "minecraft:zombie": "2025-04-09 19:12:44 +0000",
       "minecraft:creeper": "2025-04-09 19:12:49 +0000",
+      "minecraft:slime": "2025-04-10 16:58:36 +0000",
+      "minecraft:phantom": "2025-04-10 17:58:01 +0000",
+      "minecraft:zombified_piglin": "2025-04-10 20:51:32 +0000",
+      "minecraft:witch": "2025-04-13 18:45:53 +0000",
+      "minecraft:wither_skeleton": "2025-04-10 15:37:44 +0000",
+      "minecraft:shulker": "2025-04-10 23:49:26 +0000",
+      "minecraft:piglin": "2025-04-10 02:47:09 +0000",
+      "minecraft:enderman": "2025-04-09 22:07:16 +0000",
+      "minecraft:silverfish": "2025-04-10 16:32:17 +0000",
+      "minecraft:zombie": "2025-04-09 19:12:44 +0000",
       "minecraft:drowned": "2025-04-11 17:08:52 +0000",
-      "minecraft:zombie_villager": "2025-04-09 21:53:24 +0000",
-      "minecraft:slime": "2025-04-10 16:58:36 +0000"
+      "minecraft:zombie_villager": "2025-04-09 21:53:24 +0000"
     },
     "done": false
   },
@@ -4922,6 +4929,30 @@
       "minecraft:pale": "2025-04-12 04:36:20 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-13 18:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-13 18:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-13 18:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-13 18:50:28 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4082
 }
