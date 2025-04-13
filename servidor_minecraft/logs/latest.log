@@ -1,38 +1,37 @@
-[05:30:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:30:10] [ServerMain/INFO]: Loaded 1337 recipes
-[05:30:10] [ServerMain/INFO]: Loaded 1448 advancements
-[05:30:11] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[05:30:11] [Server thread/INFO]: Loading properties
-[05:30:11] [Server thread/INFO]: Default game type: SURVIVAL
-[05:30:11] [Server thread/INFO]: Generating keypair
-[05:30:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:30:11] [Server thread/INFO]: Using epoll channel type
-[05:30:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:30:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:30:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:30:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:30:11] [Server thread/INFO]: Preparing level "world"
-[05:30:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:30:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:30:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:30:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:30:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:30:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:30:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:30:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:30:15] [Worker-Main-3/INFO]: Preparing spawn area: 14%
-[05:30:15] [Server thread/INFO]: Time elapsed: 3763 ms
-[05:30:15] [Server thread/INFO]: Done (4.067s)! For help, type "help"
-[05:30:32] [Server thread/INFO]: edinson123pro[/100.97.231.107:49311] logged in with entity id 8 at (422.230688775439, 70.02442408821369, 2242.2155545385726)
-[05:30:32] [Server thread/INFO]: edinson123pro joined the game
-[05:30:44] [Server thread/INFO]: DarkJunior[/100.97.31.104:53005] logged in with entity id 408 at (365.7956250492704, 66.0, 2075.7323464105884)
-[05:30:44] [Server thread/INFO]: DarkJunior joined the game
-[05:34:46] [Server thread/WARN]: UUID of added entity already exists: chy['Bee'/1215, l='ServerLevel[world]', x=329.38, y=125.94, z=1856.80]
-[05:34:46] [Server thread/WARN]: UUID of added entity already exists: chy['Bee'/1216, l='ServerLevel[world]', x=351.81, y=110.46, z=1866.33]
-[05:34:46] [Server thread/WARN]: UUID of added entity already exists: chy['Bee'/1217, l='ServerLevel[world]', x=345.56, y=117.30, z=1861.25]
-[05:34:46] [Server thread/WARN]: UUID of added entity already exists: chy['Bee'/1218, l='ServerLevel[world]', x=344.28, y=118.02, z=1865.83]
-[05:34:46] [Server thread/WARN]: UUID of added entity already exists: chy['Bee'/1219, l='ServerLevel[world]', x=361.35, y=88.34, z=1871.99]
-[05:39:16] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[05:39:16] [Server thread/INFO]: edinson123pro left the game
-[05:39:38] [Server thread/INFO]: DarkJunior lost connection: Disconnected
-[05:39:38] [Server thread/INFO]: DarkJunior left the game
+[18:23:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:23:46] [ServerMain/INFO]: Loaded 1337 recipes
+[18:23:46] [ServerMain/INFO]: Loaded 1448 advancements
+[18:23:46] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[18:23:46] [Server thread/INFO]: Loading properties
+[18:23:46] [Server thread/INFO]: Default game type: SURVIVAL
+[18:23:46] [Server thread/INFO]: Generating keypair
+[18:23:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:23:47] [Server thread/INFO]: Using epoll channel type
+[18:23:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:23:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:23:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:23:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:23:47] [Server thread/INFO]: Preparing level "world"
+[18:23:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:23:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:51] [Server thread/INFO]: Time elapsed: 3966 ms
+[18:23:51] [Server thread/INFO]: Done (4.223s)! For help, type "help"
+[18:24:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:25:33] [Server thread/INFO]: edinson123pro[/100.97.231.107:50139] logged in with entity id 8 at (375.0061739784728, 69.0, 2076.284628314341)
+[18:25:33] [Server thread/INFO]: edinson123pro joined the game
+[18:26:13] [Server thread/INFO]: Slayer_np[/100.95.170.125:50496] logged in with entity id 490 at (184.98012676157535, 63.0, 2404.5828692030004)
+[18:26:13] [Server thread/INFO]: Slayer_np joined the game
+[18:26:31] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[18:28:50] [Server thread/INFO]: [edinson123pro: Teleported edinson123pro to Slayer_np]
+[18:29:31] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[18:30:24] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[18:32:10] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[18:33:05] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[18:33:29] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
