@@ -45,3 +45,27 @@
 [22:36:32] [Server thread/INFO]: edinson123pro joined the game
 [22:43:33] [Server thread/INFO]: edinson123pro was slain by DarkJunior
 [22:43:39] [Server thread/INFO]: [edinson123pro: Teleported edinson123pro to DarkJunior]
+[22:45:10] [Server thread/INFO]: Slayer_np[/100.95.170.125:51783] logged in with entity id 12011 at (450.7656011236286, 78.08713870365784, 1916.0755740628267)
+[22:45:10] [Server thread/INFO]: Slayer_np joined the game
+[22:45:17] [Server thread/INFO]: [edinson123pro: Teleported edinson123pro to Slayer_np]
+[22:45:33] [Server thread/INFO]: [edinson123pro: Teleported edinson123pro to DarkJunior]
+[22:45:59] [Server thread/INFO]: [Slayer_np: Made DarkJunior a server operator]
+[22:46:27] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[22:46:27] [Server thread/INFO]: edinson123pro left the game
+[22:46:30] [Server thread/INFO]: edinson123pro[/100.97.231.107:50821] logged in with entity id 12484 at (363.43034281353346, 72.0, 2059.9756472689805)
+[22:46:30] [Server thread/INFO]: edinson123pro joined the game
+[22:47:22] [Server thread/INFO]: [edinson123pro: Set DarkJunior's game mode to Spectator Mode]
+[22:47:30] [Server thread/INFO]: [edinson123pro: Set DarkJunior's game mode to Survival Mode]
+[22:49:04] [Server thread/INFO]: [Not Secure] <Slayer_np> 123456789
+[22:55:17] [Server thread/INFO]: [edinson123pro: Set DarkJunior's game mode to Creative Mode]
+[22:55:30] [Server thread/INFO]: [edinson123pro: Set DarkJunior's game mode to Survival Mode]
+[22:56:14] [Server thread/INFO]: DarkJunior lost connection: Disconnected
+[22:56:14] [Server thread/INFO]: DarkJunior left the game
+[23:01:04] [Server thread/INFO]: edinson123pro was shot by Slayer_np
+[23:01:09] [Server thread/INFO]: Slayer_np was killed
+[23:01:09] [Server thread/INFO]: [edinson123pro: Killed Slayer_np]
+[23:01:21] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[23:01:24] [Server thread/INFO]: [Slayer_np: Set own game mode to Spectator Mode]
+[23:01:56] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[23:01:57] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[23:04:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=668, y=66, z=2207} jh{x=668, y=66, z=2173}

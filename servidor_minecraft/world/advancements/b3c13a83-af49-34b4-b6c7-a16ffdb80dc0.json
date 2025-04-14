@@ -4930,18 +4930,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-04-13 18:50:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-04-13 18:50:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-04-13 18:50:28 +0000"
@@ -4951,6 +4939,18 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-04-13 18:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-13 18:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-13 18:50:29 +0000"
     },
     "done": true
   },
