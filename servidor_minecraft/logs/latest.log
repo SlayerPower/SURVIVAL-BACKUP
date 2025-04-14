@@ -80,3 +80,8 @@
 [23:13:45] [Server thread/INFO]: [Not Secure] <DarkJunior> me voy a hacer un arco solo para matarte
 [23:13:49] [Server thread/INFO]: [Not Secure] <Slayer_np> no.
 [23:15:15] [Server thread/WARN]: Slayer_np moved wrongly!
+[23:21:16] [Server thread/WARN]: Slayer_np moved too quickly! 1.5958800639438095,2.5894152316714525,10.458838671941805
+[23:21:16] [Server thread/WARN]: DarkJunior moved too quickly! 1.9855694736388614,-2.472093929335273,-17.793596707483175
+[23:22:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=479, y=61, z=2075} jh{x=480, y=62, z=2075}
+[23:22:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=479, y=61, z=2075} jh{x=480, y=62, z=2075}
+[23:22:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=479, y=61, z=2075} jh{x=480, y=62, z=2075}
