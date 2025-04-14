@@ -3828,15 +3828,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_log": "2025-04-14 05:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-14 05:48:04 +0000"
+      "has_pumpkin": "2025-04-14 05:02:51 +0000"
     },
     "done": true
   },
@@ -3846,9 +3840,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "has_pumpkin": "2025-04-14 05:02:51 +0000"
+      "has_log": "2025-04-14 05:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-14 05:48:04 +0000"
     },
     "done": true
   },
