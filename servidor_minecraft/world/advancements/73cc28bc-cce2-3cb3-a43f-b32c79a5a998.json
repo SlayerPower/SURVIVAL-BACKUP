@@ -10,10 +10,14 @@
       "minecraft:cold_ocean": "2025-04-09 19:06:45 +0000",
       "minecraft:forest": "2025-04-10 02:41:29 +0000",
       "minecraft:taiga": "2025-04-10 02:46:07 +0000",
+      "minecraft:lush_caves": "2025-04-14 23:32:47 +0000",
       "minecraft:deep_cold_ocean": "2025-04-14 23:18:04 +0000",
       "minecraft:frozen_ocean": "2025-04-10 21:14:42 +0000",
+      "minecraft:eroded_badlands": "2025-04-14 23:41:43 +0000",
+      "minecraft:desert": "2025-04-14 23:38:52 +0000",
       "minecraft:frozen_river": "2025-04-10 04:02:07 +0000",
       "minecraft:windswept_forest": "2025-04-12 05:41:30 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-14 23:44:31 +0000",
       "minecraft:ocean": "2025-04-10 02:47:34 +0000",
       "minecraft:jungle": "2025-04-11 21:43:44 +0000",
       "minecraft:sunflower_plains": "2025-04-11 16:06:40 +0000",
@@ -22,6 +26,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-04-12 20:40:55 +0000",
       "minecraft:snowy_beach": "2025-04-10 21:14:30 +0000",
       "minecraft:bamboo_jungle": "2025-04-12 21:03:08 +0000",
+      "minecraft:warm_ocean": "2025-04-14 23:39:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-11 16:09:23 +0000",
       "minecraft:flower_forest": "2025-04-11 16:07:41 +0000",
       "minecraft:beach": "2025-04-09 19:06:37 +0000",
@@ -35,7 +40,9 @@
       "minecraft:dripstone_caves": "2025-04-10 21:24:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-11 21:45:16 +0000",
       "minecraft:swamp": "2025-04-10 02:44:31 +0000",
+      "minecraft:grove": "2025-04-14 23:52:07 +0000",
       "minecraft:meadow": "2025-04-12 20:40:33 +0000",
+      "minecraft:savanna": "2025-04-14 23:37:57 +0000",
       "minecraft:plains": "2025-04-09 18:44:11 +0000"
     },
     "done": false
@@ -369,11 +376,13 @@
       "minecraft:enderman": "2025-04-10 22:07:42 +0000",
       "minecraft:endermite": "2025-04-12 04:25:22 +0000",
       "minecraft:spider": "2025-04-10 15:59:29 +0000",
+      "minecraft:vex": "2025-04-14 23:23:08 +0000",
       "minecraft:zombie": "2025-04-09 18:48:11 +0000",
       "minecraft:creeper": "2025-04-10 15:03:58 +0000",
       "minecraft:drowned": "2025-04-13 04:55:25 +0000",
       "minecraft:zombie_villager": "2025-04-10 16:23:00 +0000",
-      "minecraft:slime": "2025-04-10 16:58:47 +0000"
+      "minecraft:slime": "2025-04-10 16:58:47 +0000",
+      "minecraft:evoker": "2025-04-14 23:22:47 +0000"
     },
     "done": false
   },
@@ -3850,6 +3859,144 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-14 05:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-14 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-14 23:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-14 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-14 23:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-14 23:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-14 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-04-14 23:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-04-14 23:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-14 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-14 23:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-14 23:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-14 23:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-14 23:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-14 23:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-14 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-14 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-14 23:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-14 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-14 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-14 23:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-14 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-04-14 23:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-14 23:27:21 +0000"
     },
     "done": true
   },
