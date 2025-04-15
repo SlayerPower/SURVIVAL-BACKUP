@@ -55,3 +55,7 @@
 [00:24:16] [Server thread/INFO]: DarkJunior lost connection: Disconnected
 [00:24:16] [Server thread/INFO]: DarkJunior left the game
 [00:25:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:29:52] [Server thread/INFO]: DarkJunior[/100.97.31.104:63670] logged in with entity id 130920 at (640.9176453772404, 29.0, 2233.240782078186)
+[00:29:52] [Server thread/INFO]: DarkJunior joined the game
+[00:33:58] [Server thread/INFO]: Villager cpj['Villager'/131106, l='ServerLevel[world]', x=578.13, y=65.15, z=2188.86] died, message: 'Villager was squished too much'
+[00:35:29] [Server thread/INFO]: Villager cpj['Villager'/131060, l='ServerLevel[world]', x=578.13, y=65.09, z=2188.87] died, message: 'Villager was squished too much'
