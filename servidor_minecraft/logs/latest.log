@@ -1,61 +1,28 @@
-[00:00:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=5237, y=68, z=3542} jh{x=5239, y=66, z=3541}
-[00:00:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=5240, y=67, z=3541} jh{x=5239, y=66, z=3541}
-[00:00:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=5237, y=68, z=3536} jh{x=5236, y=66, z=3535}
-[00:00:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=5237, y=68, z=3536} jh{x=5236, y=66, z=3535}
-[00:00:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=5237, y=68, z=3536} jh{x=5236, y=66, z=3535}
-[00:00:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=5237, y=68, z=3535} jh{x=5236, y=66, z=3535}
-[00:00:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=5236, y=68, z=3532} jh{x=5235, y=67, z=3530}
-[00:02:02] [Server thread/INFO]: [Not Secure] <Slayer_np> 2254 822
-[00:02:29] [Server thread/WARN]: DarkJunior moved too quickly! -18.72418427733419,-1.9591359472030945,-1.206215882192737
-[00:04:31] [Server thread/WARN]: Slayer_np moved wrongly!
-[00:04:31] [Server thread/WARN]: Slayer_np moved wrongly!
-[00:06:42] [Server thread/INFO]: Villager cpj['Fletcher'/61375, l='ServerLevel[world]', x=602.60, y=64.00, z=2163.35] died, message: 'Fletcher was shot by Pillager'
-[00:07:52] [Server thread/WARN]: Slayer_np moved wrongly!
-[00:11:27] [Server thread/INFO]: [Not Secure] <Slayer_np> 2254 822
-[00:11:42] [Server thread/WARN]: Slayer_np moved wrongly!
-[00:15:33] [Server thread/WARN]: Slayer_np moved wrongly!
-[00:15:59] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[00:15:59] [Server thread/INFO]: Slayer_np left the game
-[00:17:22] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[00:17:22] [Server thread/INFO]: edinson123pro left the game
-[00:17:58] [Server thread/INFO]: edinson123pro[/100.97.231.107:51052] logged in with entity id 126006 at (762.5247395604398, -36.0, 2347.699999988079)
-[00:17:58] [Server thread/INFO]: edinson123pro joined the game
-[00:18:02] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[00:18:02] [Server thread/INFO]: edinson123pro left the game
-[00:18:05] [Server thread/INFO]: edinson123pro[/100.97.231.107:51061] logged in with entity id 126186 at (762.6999999880791, -36.0, 2346.4882084901374)
-[00:18:05] [Server thread/INFO]: edinson123pro joined the game
-[00:18:44] [Server thread/INFO]: Slayer_np[/100.95.170.125:55892] logged in with entity id 126529 at (-943.9800628302692, 57.0, -721.3224356351543)
-[00:18:44] [Server thread/INFO]: Slayer_np joined the game
-[00:19:57] [Server thread/WARN]: Slayer_np moved wrongly!
-[00:20:15] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[00:20:15] [Server thread/INFO]: Slayer_np left the game
-[00:20:37] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[00:20:37] [Server thread/INFO]: edinson123pro left the game
-[00:20:47] [Server thread/INFO]: edinson123pro[/100.97.231.107:51081] logged in with entity id 129223 at (782.6999999880791, 33.0, 2339.300000011921)
-[00:20:47] [Server thread/INFO]: edinson123pro joined the game
-[00:20:49] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[00:20:49] [Server thread/INFO]: edinson123pro left the game
-[00:20:52] [Server thread/INFO]: edinson123pro[/100.97.231.107:51089] logged in with entity id 129460 at (782.6999999880791, 33.0, 2339.300000011921)
-[00:20:52] [Server thread/INFO]: edinson123pro joined the game
-[00:20:54] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[00:20:54] [Server thread/INFO]: edinson123pro left the game
-[00:21:06] [Server thread/INFO]: edinson123pro[/100.97.231.107:51097] logged in with entity id 129699 at (782.6999999880791, 33.0, 2339.300000011921)
-[00:21:06] [Server thread/INFO]: edinson123pro joined the game
-[00:21:09] [Server thread/INFO]: [edinson123pro: Set own game mode to Creative Mode]
-[00:21:26] [Server thread/INFO]: Slayer_np[/100.95.170.125:56021] logged in with entity id 129974 at (626.8308756541531, 69.0, 2187.963779303164)
-[00:21:26] [Server thread/INFO]: Slayer_np joined the game
-[00:21:54] [Server thread/WARN]: Slayer_np moved wrongly!
-[00:22:05] [Server thread/INFO]: [edinson123pro: Set own game mode to Survival Mode]
-[00:22:08] [Server thread/INFO]: edinson123pro was slain by Slayer_np
-[00:22:12] [Server thread/INFO]: [Slayer_np: Teleported edinson123pro to Slayer_np]
-[00:23:32] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[00:23:32] [Server thread/INFO]: Slayer_np left the game
-[00:23:35] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[00:23:35] [Server thread/INFO]: edinson123pro left the game
-[00:24:16] [Server thread/INFO]: DarkJunior lost connection: Disconnected
-[00:24:16] [Server thread/INFO]: DarkJunior left the game
-[00:25:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:29:52] [Server thread/INFO]: DarkJunior[/100.97.31.104:63670] logged in with entity id 130920 at (640.9176453772404, 29.0, 2233.240782078186)
-[00:29:52] [Server thread/INFO]: DarkJunior joined the game
-[00:33:58] [Server thread/INFO]: Villager cpj['Villager'/131106, l='ServerLevel[world]', x=578.13, y=65.15, z=2188.86] died, message: 'Villager was squished too much'
-[00:35:29] [Server thread/INFO]: Villager cpj['Villager'/131060, l='ServerLevel[world]', x=578.13, y=65.09, z=2188.87] died, message: 'Villager was squished too much'
+[03:56:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:56:31] [ServerMain/INFO]: Loaded 1337 recipes
+[03:56:31] [ServerMain/INFO]: Loaded 1448 advancements
+[03:56:31] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:56:31] [Server thread/INFO]: Loading properties
+[03:56:31] [Server thread/INFO]: Default game type: SURVIVAL
+[03:56:31] [Server thread/INFO]: Generating keypair
+[03:56:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:56:32] [Server thread/INFO]: Using epoll channel type
+[03:56:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:56:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:56:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:56:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:56:32] [Server thread/INFO]: Preparing level "world"
+[03:56:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:56:35] [Server thread/INFO]: Time elapsed: 3457 ms
+[03:56:35] [Server thread/INFO]: Done (3.796s)! For help, type "help"
+[03:57:16] [Server thread/INFO]: DarkJunior[/100.97.31.104:51659] logged in with entity id 7 at (648.3522525614031, 72.0, 2201.0699767824544)
+[03:57:16] [Server thread/INFO]: DarkJunior joined the game
+[03:59:12] [Server thread/INFO]: edinson123pro[/100.97.231.107:51773] logged in with entity id 701 at (584.3615261384213, 70.0, 2245.772998420228)
+[03:59:12] [Server thread/INFO]: edinson123pro joined the game
