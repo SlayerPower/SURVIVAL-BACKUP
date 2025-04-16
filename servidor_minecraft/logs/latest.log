@@ -1,30 +1,32 @@
-[03:56:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:56:31] [ServerMain/INFO]: Loaded 1337 recipes
-[03:56:31] [ServerMain/INFO]: Loaded 1448 advancements
-[03:56:31] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:56:31] [Server thread/INFO]: Loading properties
-[03:56:31] [Server thread/INFO]: Default game type: SURVIVAL
-[03:56:31] [Server thread/INFO]: Generating keypair
-[03:56:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:56:32] [Server thread/INFO]: Using epoll channel type
-[03:56:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:56:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:56:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:56:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:56:32] [Server thread/INFO]: Preparing level "world"
-[03:56:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:56:35] [Server thread/INFO]: Time elapsed: 3457 ms
-[03:56:35] [Server thread/INFO]: Done (3.796s)! For help, type "help"
-[03:57:16] [Server thread/INFO]: DarkJunior[/100.97.31.104:51659] logged in with entity id 7 at (648.3522525614031, 72.0, 2201.0699767824544)
-[03:57:16] [Server thread/INFO]: DarkJunior joined the game
-[03:59:12] [Server thread/INFO]: edinson123pro[/100.97.231.107:51773] logged in with entity id 701 at (584.3615261384213, 70.0, 2245.772998420228)
-[03:59:12] [Server thread/INFO]: edinson123pro joined the game
-[04:13:51] [Server thread/INFO]: edinson123pro was doomed to fall by Zombie
-[04:13:57] [Server thread/INFO]: [edinson123pro: Teleported edinson123pro to DarkJunior]
+[03:32:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:32:10] [ServerMain/INFO]: Loaded 1337 recipes
+[03:32:10] [ServerMain/INFO]: Loaded 1448 advancements
+[03:32:11] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:32:11] [Server thread/INFO]: Loading properties
+[03:32:11] [Server thread/INFO]: Default game type: SURVIVAL
+[03:32:11] [Server thread/INFO]: Generating keypair
+[03:32:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:32:11] [Server thread/INFO]: Using epoll channel type
+[03:32:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:32:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:32:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:32:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:32:11] [Server thread/INFO]: Preparing level "world"
+[03:32:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:32:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:32:16] [Server thread/INFO]: Time elapsed: 4174 ms
+[03:32:16] [Server thread/INFO]: Done (4.513s)! For help, type "help"
+[03:33:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:35:38] [Server thread/INFO]: Slayer_np[/100.95.170.125:61298] logged in with entity id 7 at (602.1706254393536, 65.0, 2211.608888324454)
+[03:35:38] [Server thread/INFO]: Slayer_np joined the game
+[03:36:47] [Server thread/WARN]: Slayer_np moved too quickly! 0.7562805882959083,11.646114203780854,-13.176010902048802
+[03:39:55] [Server thread/INFO]: You whisper to Slayer_np: se donde vives...
+[03:40:16] [Server thread/WARN]: Slayer_np moved wrongly!
