@@ -43,3 +43,7 @@
 [06:10:19] [Server thread/INFO]: [edinson123pro: Teleported edinson123pro to DarkJunior]
 [06:21:38] [Server thread/INFO]: Villager cpj['Villager'/2181, l='ServerLevel[world]', x=578.12, y=65.17, z=2188.82] died, message: 'Villager was squished too much'
 [06:22:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=650, y=84, z=2353} jh{x=641, y=81, z=2348}
+[06:33:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=643, y=81, z=2317} jh{x=642, y=81, z=2315}
+[06:33:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=643, y=81, z=2317} jh{x=642, y=81, z=2315}
+[06:42:57] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[06:42:57] [Server thread/INFO]: edinson123pro left the game
